@@ -9,7 +9,7 @@ It is basic chat app build using Node.js , express.js and socket.io. It uses soc
 
 # Run it Locally
 ```
-* git clone https://github.com/AayushAnshu21/Movie_Review_Site.git
+* git clone https://github.com/AayushAnshu21/Chat_App-Node.js-express.js-socket.io.git
 * cd Chat_App-Node.js-express.js-socket.io
 * npm install
 * node app.js
