@@ -12,6 +12,6 @@ It is basic chat app build using Node.js , express.js and socket.io. It uses soc
 * git clone https://github.com/AayushAnshu21/Chat_App-Node.js-express.js-socket.io.git
 * cd Chat_App-Node.js-express.js-socket.io
 * npm install
-* node app.js
+* node node src/index.js
 ```
 App should be running on [localhost:3000](http://localhost:3000/).
