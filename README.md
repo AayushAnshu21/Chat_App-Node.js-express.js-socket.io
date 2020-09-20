@@ -1,9 +1,9 @@
 # Chat_App/Node.js-express.js-socket.io
 
-It is basic chat app build using Node.js , express.js and socket.io.
+It is basic chat app build using Node.js , express.js and socket.io. It uses socket.io to implement real-time communication.
 
 # Features
--It uses websockets to send message and files between servers.
+-It uses socket.io to send message and files between users.
 -Along with text user can also share images/videos.
 -Users can create rooms for group chat.
 
@@ -14,4 +14,4 @@ It is basic chat app build using Node.js , express.js and socket.io.
 * npm install
 * node app.js
 ```
-App should be running on [localhost:3000](https://http://localhost:3000/).
+App should be running on [localhost:3000](http://localhost:3000/).
